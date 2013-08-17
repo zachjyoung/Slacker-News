@@ -11,3 +11,5 @@
  *= require_self
  *= require_tree .
  */
+
+.title { font-family:Verdana; font-size: 10pt; color:#222222; }
